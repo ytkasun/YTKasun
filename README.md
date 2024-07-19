@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasun kalhara</h1>
-<h3 align="center">Professional Developer and Designer Sri Lanka</h3>
+<h3 align="center">Professional Developer and Designer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ytkasun&label=Profile%20views&color=0e75b6&style=flat" alt="ytkasun" /> </p>
 
